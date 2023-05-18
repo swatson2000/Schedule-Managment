@@ -14,4 +14,5 @@ js:
 2. keeps track of current time and day using day.js
 3. updates the hour accordingly
 
-![Work Day Scheduler](https://github.com/swatson2000/Schedule-Managment/assets/82907963/747635df-d36c-489d-a304-11548249cc1c)
+
+![Work Day Scheduler (1)](https://github.com/swatson2000/Schedule-Managment/assets/82907963/c28cd4fd-6372-4352-8679-01e91018b2e0)
