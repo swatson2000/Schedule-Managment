@@ -11,8 +11,9 @@ CSS:
 
 js:
 1. provides functionality to the save button
-2. keeps track of current time and day using day.js
-3. updates the hour accordingly
+2. keeps text even after refreshing page
+3. keeps track of current time and day using day.js
+4. updates the hour accordingly
 
 
 ![Work Day Scheduler (1)](https://github.com/swatson2000/Schedule-Managment/assets/82907963/c28cd4fd-6372-4352-8679-01e91018b2e0)
